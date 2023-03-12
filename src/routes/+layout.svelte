@@ -2,6 +2,10 @@
 	import '../app.css';
 	import siteMetaData from '$lib/siteMetaData';
 	import InlineSVG from 'svelte-inline-svg';
+	import { fly } from 'svelte/transition'
+  	import { cubicIn, cubicOut } from 'svelte/easing'
+
+	export let data
 	const svgSize = { class: 'w-8 h-8' };
 </script>
 
@@ -22,9 +26,15 @@
 			</nav>
 			<section>
 				<div class="dark:bg-gray-900 mt-6">
-					<div class="max-w-screen-lg md:flex mx-auto dark:bg-gray-900">
-						<slot />
-					</div>
+					{#key data.pathname}
+						<div
+							class="max-w-screen-lg md:flex mx-auto dark:bg-gray-900"
+							in:fly={{ easing: cubicOut, y: 10, duration: 300, delay: 400 }}
+							out:fly={{ easing: cubicIn, y: -10, duration: 300 }}
+							>
+							<slot />
+						</div>
+					{/key}
 				</div>
 			</section>
 			<footer>
