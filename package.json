@@ -1,0 +1,43 @@
+{
+	"name": "tthewjohnson",
+	"version": "1.0.0",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite dev",
+		"preview": "vite preview",
+		"deploy": "wrangler pages publish ./.svelte-kit/cloudflare --project-name tthewjohnson --commit-dirty=true",
+		"lint": "eslint",
+		"test": "vitest",
+		"format": "prettier --write \"./*.{css,svelte,ts,js,json,md}\" \"./**/*.{css,svelte,ts,js,json,md}\"",
+		"clean:svelte": "find . -name '.svelte-kit' -type d -prune -print -exec rm -rf '{}' \\;",
+		"clean:modules": "find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' \\;",
+		"clean:yarn": "find . -name 'yarn.lock' -delete; find . -name 'yarn-error.log' -delete",
+		"clean": "yarn --silent clean:svelte; yarn --silent clean:yarn; yarn --silent clean:modules"
+	},
+	"type": "module",
+	"devDependencies": {
+		"@sveltejs/adapter-cloudflare": "^2.2.0",
+		"@sveltejs/kit": "^1.11.0",
+		"@sveltejs/vite-plugin-svelte": "^2.0.3",
+		"@tailwindcss/typography": "^0.5.9",
+		"@types/node": "^18.14.0",
+		"@typescript-eslint/eslint-plugin": "^5.53.0",
+		"@typescript-eslint/parser": "^5.53.0",
+		"autoprefixer": "^10.4.14",
+		"eslint": "^8.34.0",
+		"eslint-config-prettier": "^8.6.0",
+		"eslint-plugin-svelte3": "^4.0.0",
+		"mdsvex": "^0.10.6",
+		"postcss": "^8.4.21",
+		"prettier": "^2.8.4",
+		"prettier-plugin-svelte": "^2.8.1",
+		"svelte": "^3.56.0",
+		"svelte-inline-svg": "^1.2.0",
+		"tailwindcss": "^3.2.7",
+		"tslib": "^2.5.0",
+		"typescript": "4.9.5",
+		"vite": "^4.0.0",
+		"vitest": "^0.29.2",
+		"wrangler": "^2.11.0"
+	}
+}

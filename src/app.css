@@ -1,0 +1,156 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@tailwind variants;
+
+@layer base {
+	h1 {
+		@apply text-2xl text-center;
+	}
+	h2 {
+		@apply text-xl;
+	}
+}
+
+@layer components {
+	.header {
+		@apply md:max-w-6xl mx-auto sticky top-0 z-50 bg-white dark:bg-gray-900;
+	}
+	.header > div {
+		@apply flex flex-wrap items-center justify-center px-10 md:py-4 py-2 overflow-hidden border-b border-gray-200 text-2xl sm:px-4 md:overflow-visible md:px-2;
+	}
+	.header ul {
+		@apply flex justify-center m-0 w-full md:w-auto;
+	}
+	.header ul a {
+		@apply block md:inline-block px-4 py-3 no-underline text-gray-900 dark:text-white dark:hover:text-white hover:text-gray-900 font-bold text-lg md:text-2xl;
+	}
+
+	footer > div {
+		@apply flex flex-col items-center mt-16;
+	}
+	footer .media-icons {
+		@apply flex mb-3 space-x-4;
+	}
+	footer .media-icons > a {
+		@apply text-sm text-gray-500 transition hover:text-gray-600;
+	}
+	footer .copyright {
+		@apply flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400;
+	}
+
+	.author-intro {
+		@apply mb-6;
+	}
+	.author-intro > h2 {
+		@apply mt-6 text-4xl text-gray-700 font-bold capitalize dark:text-blue-100;
+	}
+	.author-intro > p {
+		@apply mt-8 mb-4 dark:text-blue-100 text-justify;
+	}
+	.author-intro > ul {
+		@apply list-disc dark:text-blue-100;
+	}
+	.author-intro > ul > li {
+		@apply leading-relaxed ml-8;
+	}
+	.time-line {
+		@apply opacity-100 mt-10;
+	}
+	.time-line > ol {
+		@apply relative border-l border-gray-200 dark:border-gray-700;
+	}
+	.time-line > ol > li {
+		@apply mb-10 ml-6;
+	}
+	.time-line > ol > li > span {
+		@apply flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900;
+	}
+	.time-line > ol > li > span > img {
+		@apply w-3 h-3 text-blue-600 dark:text-blue-400;
+	}
+	.time-line > ol > li > h3 {
+		@apply flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white;
+	}
+	.time-line > ol > li > h3 > span {
+		@apply bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3;
+	}
+	.time-line > ol > li > time {
+		@apply block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500;
+	}
+	.time-line > ol > li > p {
+		@apply mb-4 text-base font-normal dark:text-blue-100;
+	}
+	.time-line > ol > li > ul {
+		@apply list-disc dark:text-blue-100;
+	}
+	.time-line > ol > li > ul > li {
+		@apply leading-relaxed ml-8;
+	}
+	body {
+		@apply bg-white dark:bg-gray-900;
+	}
+
+	.blog,
+	.content {
+		@apply text-left text-black dark:text-blue-100 overflow-auto;
+	}
+	.blog h1,
+	.content h1 {
+		@apply text-left text-4xl mb-4 font-bold;
+	}
+	.blog h2 {
+		@apply text-left text-3xl leading-10 my-2 font-bold;
+	}
+	.blog h3 {
+		@apply text-left text-2xl font-bold;
+	}
+	.blog ol {
+		@apply list-decimal pl-8 leading-8;
+	}
+	.blog ul {
+		@apply list-disc pl-8 leading-8;
+	}
+	.blog code {
+		@apply bg-gray-100 dark:bg-gray-700 p-1 font-mono;
+	}
+	.blog pre {
+		@apply py-4;
+	}
+	.blog pre code {
+		@apply block;
+	}
+	.blog p {
+		@apply my-2 leading-8;
+	}
+	.blog a {
+		@apply underline text-blue-700 dark:text-blue-300;
+	}
+	.blog blockquote {
+		@apply pl-4 border-l-4 border-gray-200;
+	}
+	.blog td,
+	.blog th {
+		@apply py-2 mr-2;
+	}
+
+	.content {
+		@apply block m-auto;
+	}
+
+	.blog-posts li {
+		@apply block py-6 border-b-2  border-gray-200;
+	}
+	.blog-posts li > a {
+		@apply block text-4xl font-bold;
+	}
+	.blog-posts li > p {
+		@apply block leading-6 text-xl py-4;
+	}
+	.blog-posts li > time {
+		@apply block leading-4 text-base;
+	}
+}
