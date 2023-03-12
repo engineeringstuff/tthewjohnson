@@ -86,7 +86,7 @@
 	<div class="time-line">
 		<ol>
 			<li>
-				<span><img src="/icon/academy.svg" alt="Workplace Icon" /></span>
+				<span><img src="/icon/key.svg" alt="The Key icon" /></span>
 				<h3>
 					Architect at San Francisco based Healthcare Startup
 					<span>Current</span>
@@ -95,7 +95,7 @@
 				<p>Mixture of hands-on and architecture in a startup environment</p>
 			</li>
 			<li>
-				<span><img src="/icon/academy.svg" alt="Workplace Icon" /></span>
+				<span><img src="/icon/scot.svg" alt="Scottish icon" /></span>
 				<h3>Lead Architect, Scottish Government</h3>
 				<time>Feb 2019 - Oct 2021</time>
 				<ul>
@@ -110,7 +110,7 @@
 				</ul>
 			</li>
 			<li>
-				<span><img src="/icon/academy.svg" alt="Workplace Icon" /></span>
+				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
 				<h3>Deputy Director, Head of Software Engineering & DevOps, UK Government (DWP)</h3>
 				<time>Aug 2017 - Feb 2019</time>
 				<ul>
@@ -141,7 +141,7 @@
 				</ul>
 			</li>
 			<li>
-				<span><img src="/icon/academy.svg" alt="Workplace Icon" /></span>
+				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
 				<h3>Senior Architect, UK Government (GDS - Cabinet Office)</h3>
 				<time>Jan 2017 - Aug 2017</time>
 				<ul>
@@ -166,7 +166,7 @@
 				</ul>
 			</li>
 			<li>
-				<span><img src="/icon/academy.svg" alt="Workplace Icon" /></span>
+				<span><img src="/icon/map-pin.svg" alt="Map Pin icon" /></span>
 				<h3>CTO, Zoek</h3>
 				<time>Nov 2016 - Jan 2017</time>
 				<ul>
@@ -186,7 +186,7 @@
 				</ul>
 			</li>
 			<li>
-				<span><img src="/icon/academy.svg" alt="Workplace Icon" /></span>
+				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
 				<h3>Senior Architect (R&D), UK Government (DWP)</h3>
 				<time>Apr 2015 - Nov 2016</time>
 				<ul>
