@@ -9,7 +9,7 @@
 	<meta name="description" content="Matt Johnson" />
 </svelte:head>
 
-<div class="md:w-1/3 p-2 md:flex md:justify-center">
+<div class="md:w-1/3 p-0 md:p-2 md:flex md:justify-center">
 	<div class="md:fixed">
 		<div class="md:block flex justify-center items-center">
 			<img

@@ -20,7 +20,7 @@
 		@apply md:max-w-6xl mx-auto sticky top-0 z-50 bg-white dark:bg-gray-900;
 	}
 	.header > div {
-		@apply flex flex-wrap items-center justify-center px-10 md:py-4 py-2 overflow-hidden border-b border-gray-200 text-2xl sm:px-4 md:overflow-visible md:px-2;
+		@apply flex flex-wrap items-center justify-center px-10 md:py-4 py-0 sm:py-2 overflow-hidden border-b border-gray-200 text-2xl sm:px-4 md:overflow-visible md:px-2;
 	}
 	.header ul {
 		@apply flex justify-center m-0 w-full md:w-auto;
@@ -49,13 +49,13 @@
 		@apply mt-6 text-4xl text-gray-700 font-bold capitalize dark:text-blue-100;
 	}
 	.author-intro > p {
-		@apply mt-8 mb-4 dark:text-blue-100 text-justify;
+		@apply mt-8 mb-8 dark:text-blue-100 text-justify leading-relaxed;
 	}
 	.author-intro > ul {
 		@apply list-disc dark:text-blue-100;
 	}
 	.author-intro > ul > li {
-		@apply leading-relaxed ml-8;
+		@apply leading-relaxed ml-8 my-2;
 	}
 	.time-line {
 		@apply opacity-100 mt-10;
@@ -82,13 +82,13 @@
 		@apply block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500;
 	}
 	.time-line > ol > li > p {
-		@apply mb-4 text-base font-normal dark:text-blue-100;
+		@apply mb-4 text-base font-normal dark:text-blue-100 leading-relaxed;
 	}
 	.time-line > ol > li > ul {
 		@apply list-disc dark:text-blue-100;
 	}
 	.time-line > ol > li > ul > li {
-		@apply leading-relaxed ml-8;
+		@apply leading-relaxed ml-8 my-2;
 	}
 	body {
 		@apply bg-white dark:bg-gray-900;
@@ -96,7 +96,7 @@
 
 	.blog,
 	.content {
-		@apply text-left text-black dark:text-blue-100 overflow-auto;
+		@apply text-left text-black dark:text-blue-100 overflow-auto max-w-prose m-auto;
 	}
 	.blog h1,
 	.content h1 {
@@ -148,7 +148,7 @@
 		@apply block text-4xl font-bold;
 	}
 	.blog-posts li > p {
-		@apply block leading-6 text-xl py-4;
+		@apply block leading-8 text-xl py-4;
 	}
 	.blog-posts li > time {
 		@apply block leading-4 text-base;
