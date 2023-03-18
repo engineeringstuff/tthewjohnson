@@ -283,7 +283,7 @@
 		@apply bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3;
 	}
 	.time-line > ol > li > time {
-		@apply block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500;
+		@apply block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-400;
 	}
 	.time-line > ol > li > p {
 		@apply mb-4 text-base font-normal dark:text-blue-100 leading-relaxed;

@@ -88,11 +88,14 @@
 			<li>
 				<span><img src="/icon/key.svg" alt="The Key icon" /></span>
 				<h3>
-					Architect at San Francisco based Healthcare Startup
+					Architect at Healthcare Startup, California
 					<span>Current</span>
 				</h3>
 				<time>October 2021 - Now</time>
-				<p>Mixture of hands-on and architecture in a startup environment</p>
+				<ul>
+					<li>Mixture of hands-on and architecture in a startup environment</li>
+					<li>Heavy Typescript usage</li>
+				</ul>
 			</li>
 			<li>
 				<span><img src="/icon/scot.svg" alt="Scottish icon" /></span>
@@ -111,16 +114,16 @@
 			</li>
 			<li>
 				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
-				<h3>Deputy Director, Head of Software Engineering & DevOps, UK Government (DWP)</h3>
+				<h3>Head of Software Engineering & DevOps, Deputy Director, UK Government (DWP)</h3>
 				<time>Aug 2017 - Feb 2019</time>
 				<ul>
 					<li>
-						Led and managed over 819 in Engineering, in an organisation with approximately 90,000
+						Led and managed over 815 engineers, in an organization of approximately 90,000
 						people overall
 					</li>
 					<li>
 						Implementing the Spotify model of squads, tribes and guilds working with other heads of
-						roles
+						roles, devolving responsibilities and leading by example
 					</li>
 					<li>
 						Complex and challenging working environment with multiple stakeholders across multiple
@@ -128,11 +131,11 @@
 					</li>
 					<li>Defining technical standards &amp; policies across DWP Digital</li>
 					<li>
-						Advising and shaping critical work on core programmes of work across the department
+						Advising and shaping critical work on core programmes of work across the organization
 					</li>
 					<li>
 						Founded a purposeful culture of devolved responsibilities, flat management, community
-						engagement and servant-leader management in Engineering
+						engagement and servant-leader management in the Engineering community
 					</li>
 					<li>
 						Setting a vision for transformation away from Legacy systems with a practical strategy
@@ -142,7 +145,7 @@
 			</li>
 			<li>
 				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
-				<h3>Senior Architect, UK Government (GDS - Cabinet Office)</h3>
+				<h3>Senior Architect, UK Government (GDS, Cabinet Office)</h3>
 				<time>Jan 2017 - Aug 2017</time>
 				<ul>
 					<li>Advised HM Treasury and Cabinet Office Spend Controls</li>
@@ -152,10 +155,10 @@
 					</li>
 					<li>
 						Led internal Assessment of Gov.Verify, as a Subject Matter Expert on identity for the UK
-						Government and produced a 14 page report
+						Government and produced a 14 page dossier on the gaps with the UK.Gov Verify product
 					</li>
 					<li>
-						Lead GDS representative on Identity, SSO, Authentication and Authorisation standards.
+						Lead Cabinet Office representative on Identity, SSO, Authentication and Authorization standards.
 					</li>
 					<li>
 						Contributor to the Service Standard, Technology Code of Practice and Assessment design,
@@ -175,7 +178,7 @@
 						Creating and implementing a vision to move the development of all products in-house.
 					</li>
 					<li>
-						Strategising for increased conversion rates, optimisation of existing revenue streams
+						Strategizing for increased conversion rates, optimization of existing revenue streams
 						and creation of new revenue streams wherever possible with technology
 					</li>
 					<li>Managing a strategy to recruit, train and mentor technology apprentices</li>
@@ -187,12 +190,12 @@
 			</li>
 			<li>
 				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
-				<h3>Senior Architect (R&D), UK Government (DWP)</h3>
+				<h3>Senior Architect of R&D, UK Government (DWP)</h3>
 				<time>Apr 2015 - Nov 2016</time>
 				<ul>
 					<li>
 						Cross-discipline polyglot architect in the R&D and innovation function of the DWP
-						working in a very hands-on capacity on bleeding-edge technologies (blockchain, rpa, AI)
+						working in a very hands-on capacity on bleeding-edge technologies (blockchain, RPA, AI, VR)
 					</li>
 					<li>
 						Introducing open-standards, new technologies and new engineering practices into central
@@ -200,11 +203,11 @@
 						Ruby, LUA, Java, C#, Typescript, JavaScript, CSS, HTML, OpenStack, MESOS, Kubernetes,
 						Docker, AI, hadoop, cassandra and lots more
 					</li>
-					<li>Key Architect in PIP tooling to save tens of millions of £ in the PIP program</li>
+					<li>Lead Architect of PIP Assessment Tool, which saved tens of millions of £ for the PIP program, and taxpayer</li>
 					<li>
 						Architected and implemented a federated AAA-oriented Service Mesh API strategy with
 						JWT/JWE tokens with KONG/NGINX/LUA - a key initiative for identity across the
-						organisation
+						organization
 					</li>
 				</ul>
 			</li>
