@@ -40,6 +40,14 @@
 				<a href="mailto:{siteMetaData.email}">{siteMetaData.email}</a>
 			</div>
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
+				<InlineSVG src="/icon/linkeding.svg" {...svgSize} />
+				<a target="_blank" rel="noreferrer" href={siteMetaData.linkedin}>LinkedIn</a>
+			</div>
+			<div class="my-2 text-gray-600 flex dark:text-blue-100">
+				<InlineSVG src="/icon/github_new.svg" {...svgSize} />
+				<a target="_blank" rel="noreferrer" href={siteMetaData.github}>@engineeringstuff</a>
+			</div>
+			<div class="my-2 text-gray-600 flex dark:text-blue-100">
 				<InlineSVG src="/icon/glob.svg" {...svgSize} />
 				<p>{siteMetaData.location}</p>
 			</div>

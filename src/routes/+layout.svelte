@@ -21,6 +21,9 @@
 						<li>
 							<a href="/blog">Blog</a>
 						</li>
+						<li>
+							<a href="/about">About Me</a>
+						</li>
 					</ul>
 				</div>
 			</nav>
