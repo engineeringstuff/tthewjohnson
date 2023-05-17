@@ -66,6 +66,9 @@
 		<p>
 			Driven by my passion for efficiency and cost-saving measures, I later joined the UK Government Cabinet Office. Here, my objective was twofold: to help other government departments save money and assist them in establishing their own in-house teams.
 		</p>
+		<p>
+			Now I am working with a startup to build a new product...
+		</p>
 		<h2>The longer story</h2>
 		<p>
 			Back in the 1990s, I received a Commodore C64 for Christmas along with a limited selection of games. After delving into the extensive instruction manual, I started programming and creating my own applications using what I later discovered was 6502 Assembly language.
@@ -104,7 +107,7 @@
 			After a few years, I transitioned to the UK Government Cabinet Office to assist in cost-saving measures across the government and aid other departments in establishing their own in-house teams. In my first year, we achieved record-breaking results, evidencing savings of around £1 billion for the UK Government. However, I believe our impact extended beyond monetary value, mitigating any "lost opportunity" costs.
 		</p>
 		<p>
-			While the experience was enjoyable, I wanted to return to the startup environment and focus on building. Currently, I am working with a startup in the US on a new product set to launch in 2024.
+			While the experience was enjoyable, I wanted to return to the startup environment and focus on building. Currently, I am working with a startup on a new product...
 		</p>
 	</div>
 </div>
