@@ -3,6 +3,8 @@ title: 'Ted Lasso can\'t teach you team management'
 description: 'I've recently found myself engrossed in Ted Lasso, despite not being a fan of football. While the show has its humorous and endearing moments, it made me contemplate...'
 ---
 
+17th May 2023
+
 # Ted Lasso can't teach you team management
 I've recently found myself engrossed in Ted Lasso, despite not being a fan of football. While the show has its humorous and endearing moments, it made me contemplate:
 

@@ -15,7 +15,7 @@ This repository holds the source code to my blog (hosted at the URI above).
 1. Built with [SvelteKit](https://kit.svelte.dev/)
     * **why?** [Svelte](https://svelte.dev/) is a great framework for building websites, it has intuitive in-built support for animations, transitions and other modern web-design paradigms. SvelteKit has an adapter to build production content to CloudFlare pages as a  [JamStack](https://en.wikipedia.org/wiki/Jamstack) application.
 1. Styled with [Tailwind CSS](https://tailwindcss.com/)
-    * **why** Tailwind CSS is a simple, intuitive, modern framework for styling websites, I find it easy to use and better than similar libraries such as [Bootstrap](https://getbootstrap.com/)
+    * **why?** Tailwind CSS is a simple, intuitive, modern framework for styling websites, I find it easy to use and better than similar libraries such as [Bootstrap](https://getbootstrap.com/)
 1. [TypeScript](https://www.typescriptlang.org/)
     * **why?** there's very little code in this blog, but wherever there is code I choose to use TypeScript whenever possible because it is a strongly-typed language capable of achieving multiple programming paradigms
 1. [Markdown](https://en.wikipedia.org/wiki/Markdown)

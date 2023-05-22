@@ -3,6 +3,8 @@ title: 'Why I Decided to Start a New Blog'
 description: 'As someone who has been involved in technology for over 20 years, I've had various websites and side-projects over that period of time. I even had a very popular blog at one point in time with over 500,000 views per month. But, I gave up on that since...'
 ---
 
+12th March 2023
+
 # Why I Decided to Start a New Blog
 As someone who has been involved in technology for over 20 years, I've had various websites and side-projects over that period of time. I even had a very popular blog at one point in time with over 500,000 views per month. But, I gave up on that since it didn't yield the career or monetary benefits that I expected. Looking back, I realize this decision was probably selfish and short-sighted.
 
