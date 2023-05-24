@@ -12,11 +12,18 @@ const siteMetaData = {
 	linkedin: 'https://www.linkedin.com/in/codingjohnson/',
 	blog: [
 		{
+			title: 'What is the Supercloud?',
+			url: '/blog/what-is-the-supercloud',
+			datePublished: '24th May 2023',
+			description:
+				"Exploring the concept of the Supercloud and its implications for modern web applications..."
+		},
+		{
 			title: 'Monoliths are good, but not that good',
 			url: '/blog/monoliths',
 			datePublished: '22nd May 2023',
 			description:
-				"Exploring the limitations of monolithic architectures in modern systems engineering...."
+				"Exploring the limitations of monolithic architectures in modern systems engineering..."
 		},
 		{
 			title: 'Ted Lasso can\'t teach you team management',
