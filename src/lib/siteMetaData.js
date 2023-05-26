@@ -12,6 +12,13 @@ const siteMetaData = {
 	linkedin: 'https://www.linkedin.com/in/codingjohnson/',
 	blog: [
 		{
+			title: 'Finding Balance: Pragmatic Software Delivery',
+			url: '/blog/finding-balance-pragmatism',
+			datePublished: '26th May 2023',
+			description:
+				"Exploring the need for a balanced approach between technical excellence and delivering business value in software development..."
+		},
+		{
 			title: 'What is the Supercloud?',
 			url: '/blog/what-is-the-supercloud',
 			datePublished: '24th May 2023',
