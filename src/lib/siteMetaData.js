@@ -12,6 +12,13 @@ const siteMetaData = {
 	linkedin: 'https://www.linkedin.com/in/codingjohnson/',
 	blog: [
 		{
+			title: 'Engineering First',
+			url: '/blog/engineering-first',
+			datePublished: '2nd June 2023',
+			description:
+				"Exploring the Engineering First principle and its benefits in achieving faster, better product delivery while addressing common concerns..."
+		},
+		{
 			title: 'Finding Balance: Pragmatic Software Delivery',
 			url: '/blog/finding-balance-pragmatism',
 			datePublished: '26th May 2023',
