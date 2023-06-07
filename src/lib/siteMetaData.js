@@ -12,6 +12,13 @@ const siteMetaData = {
 	linkedin: 'https://www.linkedin.com/in/codingjohnson/',
 	blog: [
 		{
+			title: 'Handle, Don\'t Throw',
+			url: '/blog/handle-dont-throw',
+			datePublished: '7th June 2023',
+			description:
+				"A rule that has served me well when building applications is to \"handle, don't throw\" when dealing with exceptions. It's a mindset I try to instill in others when mentoring or working alongside them...."
+		},
+		{
 			title: 'Engineering First',
 			url: '/blog/engineering-first',
 			datePublished: '2nd June 2023',
