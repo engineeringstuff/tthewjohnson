@@ -1,0 +1,25 @@
+---
+title: 'What Good Leaders Do'
+description: '.'
+---
+
+12th June 2023
+
+# What good leaders do
+
+Good leadership is essential for the success and growth of any organization. Effective leaders possess a range of qualities and exhibit specific behaviors that inspire and motivate their teams
+
+* **Listen** - A crucial aspect of leadership is actively listening to team members. Good leaders take the time to understand how individuals perceive themselves, the organization, their roles, and the problems within the organization. More than anything, they sincerely listen to each person that reports to them, fostering stronger connections and gaining valuable insights.
+* **Focus on the Long-Term Objective** - Successful leaders never lose sight of the organization's long-term objectives. They understand that the overall goal is the benchmark against which everyone's contribution is measured. By keeping the bigger picture in mind, leaders provide direction and clarity, ensuring that every decision and action aligns with the long-term goals.
+* **Be Pragmatic** - When making decisions, good leaders continually focus on the wider needs of the organization and adopt a pragmatic approach. They prioritize the overall well-being of the organization, even if it means delaying certain initiatives or trade-offs. For example, they may choose to delay a rewrite to ship an urgently needed feature, disappointing the team but pleasing the customers.
+* **Ensure Shared Context Isn't Fractured** - Understanding the long-term goals of the organization does not automatically translate to shared understanding among team members. Good leaders repeat themselves, communicate decisions effectively, and continually course-correct individuals within the team. This effort helps team members grasp the reasoning behind higher-level decisions and ensures everyone is on the same page.
+* **Schedule Meetings When Convenient for Others** - Good leaders prioritize the convenience of their team members when scheduling meetings. They recognize that context-switching incurs costs and may impact productivity. By allowing team members to choose meeting times that have the least impact on their workflow, leaders maintain high velocity and respect the importance of uninterrupted focus.
+* **Enable Clear Decision-Making** - Setting clear rules around decision-making is vital for efficient teamwork. Good leaders establish transparent decision-making processes and ensure their team members understand them. They keep a log of decisions, make meeting notes public, and encourage open conversation. This way, the audit trail of any decision is visible, making sense objectively and avoiding wasted time revisiting and changing decisions.
+* **Don't Have Favorites** - In line with active listening, good leaders give everyone a voice proportional to their role. They avoid showing favoritism and ensure that all team members feel heard and valued. By creating an inclusive environment, leaders encourage diverse perspectives, foster collaboration, and prevent discouragement among team members.
+* **Let People Show Their Strengths** - Recognizing and leveraging individual strengths is crucial for maximizing team performance. Good leaders identify the unique strengths and weaknesses of their team members and allocate tasks accordingly. By utilizing each person's abilities effectively, leaders promote efficiency, capitalize on expertise, and maintain high team velocity.
+* **Praise Success, No Matter How Small** - Celebrating success is an important aspect of good leadership. Leaders acknowledge and publicly praise accomplishments, no matter how small they may seem. By highlighting achievements, leaders create a culture of appreciation and motivation, where team members feel valued for their contributions.
+* **Give Credit** - Good leaders understand the significance of sharing credit. They avoid taking all the credit for themselves while shifting blame onto others. They recognize that individual wins are team wins and give credit where it's due. By acknowledging and celebrating the successes of team members, leaders foster a sense of unity and encourage a collaborative and supportive work environment.
+* **Get Out of the Way** - Effective leaders understand that their role is not to be the smartest person on the team. They hire and coordinate experts and empower them to do their best work. Good leaders provide support, guidance, and resources while giving team members the freedom to showcase their expertise. By stepping back and allowing others to shine, leaders create an environment that values diverse skills and ideas.
+* **Make Yourself Redundant** - Great leaders focus on building a self-sufficient team rather than being a critical bottleneck. They empower team members, delegate decision-making authority, and provide opportunities for growth and development. By devolving decision-making and enabling the team to work independently, leaders foster autonomy, increase productivity, and cultivate future leaders.
+
+

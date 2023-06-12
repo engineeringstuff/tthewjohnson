@@ -1,9 +1,8 @@
 const siteMetaData = {
-	title: 'Matt Johnson | some guy in technology 🎉',
+	title: 'Matt Johnson | an experienced leader in technology',
 	author: 'Matt Johnson',
 	author_image: '/author.png',
-	location: 'Somewhere in Great Britain',
-	slogan: 'some guy in technology 🎉',
+	slogan: 'an experienced leader in technology',
 	siteUrl: 'https://ma.tthewjohnson.com',
 	siteLogo: '/author.png',
 	image: '/author.png',
@@ -12,11 +11,18 @@ const siteMetaData = {
 	linkedin: 'https://www.linkedin.com/in/codingjohnson/',
 	blog: [
 		{
+			title: 'What Good Leaders Do',
+			url: '/blog/what-good-leaders-do',
+			datePublished: '12th June 2023',
+			description:
+				"Good leadership is essential for the success and growth of any organization. Effective leaders possess a range of qualities and exhibit specific behaviors that inspire and motivate their teams..."
+		},
+		{
 			title: 'Handle, Don\'t Throw',
 			url: '/blog/handle-dont-throw',
 			datePublished: '7th June 2023',
 			description:
-				"A rule that has served me well when building applications is to \"handle, don't throw\" when dealing with exceptions. It's a mindset I try to instill in others when mentoring or working alongside them...."
+				"A rule that has served me well when building applications is to \"handle, don't throw\" when dealing with exceptions. It's a mindset I try to instill in others when mentoring or working alongside them..."
 		},
 		{
 			title: 'Engineering First',
