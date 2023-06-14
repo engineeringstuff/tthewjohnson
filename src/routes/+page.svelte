@@ -54,17 +54,18 @@
 	<div class="author-intro">
 		<h2>Hey there 👋</h2>
 		<p>
-			Hello, I'm Matt Johnson, a highly experienced technologist with a track record of success
+			Hello, I'm Matt Johnson, a multi-award winning and highly experienced technologist with a track record of success
 			across a wide range of industries and technologies. With over two decades of engineering and
 			technical leadership experience, I've tackled some of the most complex challenges in the
 			field.
 		</p>
 		<p>My accomplishments include:</p>
 		<ul>
-			<li>R&D lead for UK Government - leading on many projects, including AI/ML</li>
-			<li>Led and managed over 815 engineers for the UK Government, recruited over 400</li>
-			<li>A large crypto-currency project for the UK government</li>
 			<li>CTO at a successful recruitment startup</li>
+			<li>CTO at a successful translation startup</li>
+			<li>Led and managed over 815 engineers for the UK Government, recruited over 400</li>
+			<li>R&D lead for UK Government - leading on many projects, including AI/ML</li>
+			<li>A large crypto-currency project for the UK government</li>
 			<li>Identity Subject Matter Expert for UK Government (GDS)</li>
 			<li>Open Source Subject Matter Expert for UK Government (GDS)</li>
 			<li>A large AI project for Job and Applicant classification and matching</li>
@@ -149,7 +150,7 @@
 			</li>
 			<li>
 				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
-				<h3>Senior Architect, UK Government (GDS, Cabinet Office)</h3>
+				<h3>Lead Architect, UK Government (GDS, Cabinet Office)</h3>
 				<time>Jan 2017 - Aug 2017</time>
 				<ul>
 					<li>Advised HM Treasury and Cabinet Office Spend Controls</li>
@@ -194,7 +195,7 @@
 			</li>
 			<li>
 				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
-				<h3>Senior Architect of R&D, UK Government (DWP)</h3>
+				<h3>Lead Architect in R&D, UK Government (DWP)</h3>
 				<time>Apr 2015 - Nov 2016</time>
 				<ul>
 					<li>
