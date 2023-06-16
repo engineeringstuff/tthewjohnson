@@ -11,6 +11,13 @@ const siteMetaData = {
 	linkedin: 'https://www.linkedin.com/in/codingjohnson/',
 	blog: [
 		{
+			title: 'Engineer to architect',
+			url: '/blog/engineer-to-architect',
+			datePublished: '16th June 2023',
+			description:
+				"While some organizations may treat architecture as an inherent ability of their engineering team, it is crucial to recognize that architecture requires specific skills and expertise..."
+		},
+		{
 			title: 'What Good Leaders Do',
 			url: '/blog/what-good-leaders-do',
 			datePublished: '12th June 2023',
