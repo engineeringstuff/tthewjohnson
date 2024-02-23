@@ -1,6 +1,5 @@
 <script lang="ts">
 	import siteMetaData from '$lib/siteMetaData';
-	import InlineSVG from 'svelte-inline-svg';
 	const svgSize = { class: 'pr-2 w-8' };
 </script>
 
@@ -36,15 +35,15 @@
 
 		<div class="mx-7 hidden md:block">
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
-				<InlineSVG src="/icon/mail.svg" {...svgSize} />
+				<img src="/icon/mail.svg" {...svgSize} alt="Email" />
 				<a href="mailto:{siteMetaData.email}">{siteMetaData.email}</a>
 			</div>
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
-				<InlineSVG src="/icon/linkeding.svg" {...svgSize} />
+				<img src="/icon/linkeding.svg" {...svgSize} alt="LinkedIn" />
 				<a target="_blank" rel="noreferrer" href={siteMetaData.linkedin}>LinkedIn</a>
 			</div>
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
-				<InlineSVG src="/icon/github_new.svg" {...svgSize} />
+				<img src="/icon/github_new.svg" {...svgSize} alt="GitHub" />
 				<a target="_blank" rel="noreferrer" href={siteMetaData.github}>@engineeringstuff</a>
 			</div>
 		</div>
@@ -53,6 +52,7 @@
 <div class="md:w-2/3 sm:px-8 px-2">
 	<div class="blog">
 		<h2>The short story</h2>
+		<p>I began my professional career in 2001 and did lots of engineering and architecture things in the private sector</p>
 		<p>
 			In 2015, I embarked on a career journey by joining a research and development team. Our primary goal was to streamline operations and reduce costs by bringing the extensive expenditure on external consultants in-house, under the guidance of the Chief Technology Officer (CTO). The team achieved remarkable success within the UK Government, prompting us to expand our in-house team.
 		</p>
@@ -60,7 +60,7 @@
 			Over time, my role evolved, and I had the privilege of leading a team of 815 engineers as the <a target="_blank" rel="noreferrer" href="https://dwpdigital.blog.gov.uk/author/matt-johnson/">Head of Software Engineering</a>. Our department fostered a unique culture that became an inspiration for other teams and roles across the organization. It was rewarding to witness others striving to replicate our success.
 		</p>
 		<p>
-			Driven by my passion for efficiency and cost-saving measures, I later joined the UK Government Cabinet Office. Here, my objective was twofold: to help other government departments save money and assist them in establishing their own in-house teams.
+			Driven by my passion for efficiency and cost-saving measures, I joined the UK Government Cabinet Office. Here, my objective was twofold: to help other government departments save money and assist them in establishing their own in-house teams.
 		</p>
 		<p>
 			Now I am working with a startup to build a new product...
@@ -97,7 +97,7 @@
 			Eventually, some projects were handed over to other teams, and we focused on our core endeavors. Recognizing a leadership gap, we swiftly hired engineers while maintaining the established culture. I was promoted to Head of Software Engineering and tasked with the challenge of hiring 100 engineers within 100 days. Surpassing expectations, we hired around 200 individuals, marking the most successful recruitment drive in the history of DWP Digital.
 		</p>
 		<p>
-			In the subsequent years, we initiated hackathons and roadshow events nationwide to boost recruitment, enhance internal communication, and inspire other teams to replicate our achievements. My speaking engagements at conferences and events across the country led to mentoring opportunities within management structures of various teams.
+			In the subsequent years, we ran hackathons and roadshow events nationwide to boost recruitment, enhance internal communication, and inspire other teams to replicate our achievements. My speaking engagements at conferences and events across the country led to mentoring opportunities within management structures of various teams.
 		</p>
 		<p>
 			After a few years, I transitioned to the UK Government Cabinet Office to assist in cost-saving measures across the government and aid other departments in establishing their own in-house teams. In my first year, we achieved record-breaking results, evidencing savings of around £1 billion for the UK Government. However, I believe our impact extended beyond monetary value, mitigating any "lost opportunity" costs.

@@ -1,9 +1,9 @@
 {
 	"root": true,
 	"parser": "@typescript-eslint/parser",
-	"extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended", "prettier"],
+	"extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended", "plugin:svelte/recommended", "prettier"],
 	"ignorePatterns": ["**/*", "*.cjs"],
-	"plugins": ["@nrwl/nx", "svelte3", "@typescript-eslint"],
+	"plugins": ["@nrwl/nx",  "@typescript-eslint"],
 	"parserOptions": {
 		"sourceType": "module",
 		"ecmaVersion": 2020
@@ -14,7 +14,6 @@
 		"node": true
 	},
 	"overrides": [
-		{ "files": ["*.svelte"], "processor": "svelte3/svelte3" },
 		{
 			"files": ["*.ts", "*.tsx", "*.js", "*.jsx"],
 			"rules": {

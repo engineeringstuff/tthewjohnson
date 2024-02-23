@@ -1,6 +1,5 @@
 <script lang="ts">
 	import siteMetaData from '$lib/siteMetaData';
-	import InlineSVG from 'svelte-inline-svg';
 	const svgSize = { class: 'pr-2 w-8' };
 </script>
 
@@ -36,15 +35,15 @@
 
 		<div class="mx-7 hidden md:block">
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
-				<InlineSVG src="/icon/mail.svg" {...svgSize} />
+				<img src="/icon/mail.svg" {...svgSize} alt="Email" />
 				<a href="mailto:{siteMetaData.email}">{siteMetaData.email}</a>
 			</div>
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
-				<InlineSVG src="/icon/linkeding.svg" {...svgSize} />
+				<img src="/icon/linkeding.svg" {...svgSize} alt="LinkedIn" />
 				<a target="_blank" rel="noreferrer" href={siteMetaData.linkedin}>LinkedIn</a>
 			</div>
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
-				<InlineSVG src="/icon/github_new.svg" {...svgSize} />
+				<img src="/icon/github_new.svg" {...svgSize} alt="GitHub" />
 				<a target="_blank" rel="noreferrer" href={siteMetaData.github}>@engineeringstuff</a>
 			</div>
 		</div>
@@ -61,13 +60,10 @@
 		</p>
 		<p>My accomplishments include:</p>
 		<ul>
-			<li>CTO at a successful recruitment startup</li>
 			<li>CTO at a successful translation startup</li>
 			<li>Led and managed over 815 engineers for the UK Government, recruited over 400</li>
 			<li>R&D lead for UK Government - leading on many projects, including AI/ML</li>
-			<li>A large crypto-currency project for the UK government</li>
-			<li>Identity Subject Matter Expert for UK Government (GDS)</li>
-			<li>Open Source Subject Matter Expert for UK Government (GDS)</li>
+			<li>Subject Matter Expert for UK Government (GDS)</li>
 			<li>A large AI project for Job and Applicant classification and matching</li>
 			<li>Webby Awards Honoree</li>
 			<li>
@@ -99,7 +95,10 @@
 				<time>October 2021 - Now</time>
 				<ul>
 					<li>Mixture of hands-on and architecture in a startup environment</li>
-					<li>Heavy Typescript usage</li>
+					<li>Led architecture and development of in-house backend systems (Typescript, NestJS, Google Cloud, Postgres, REST, WebSockets, gRPC, GraphQL/Apollo)</li>
+					<li>Extensive usage of Twilio, Workday and Salesforce</li>
+					<li>Lots of frontend work across various products (React/Redux, NextJS, TypeScript, HTML, CSS)</li>
+					<li>Mobile-app development (React Native)</li>
 				</ul>
 			</li>
 			<li>
@@ -119,7 +118,7 @@
 			</li>
 			<li>
 				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
-				<h3>Head of Software Engineering & DevOps, Deputy Director, UK Government (DWP)</h3>
+				<h3>Head of Engineering & DevOps, UK Government (DWP)</h3>
 				<time>Aug 2017 - Feb 2019</time>
 				<ul>
 					<li>
@@ -150,8 +149,8 @@
 			</li>
 			<li>
 				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
-				<h3>Lead Architect, UK Government (GDS, Cabinet Office)</h3>
-				<time>Jan 2017 - Aug 2017</time>
+				<h3>Senior Architect, UK Government (GDS, Cabinet Office)</h3>
+				<time>Nov 2016 - Aug 2017</time>
 				<ul>
 					<li>Advised HM Treasury and Cabinet Office Spend Controls</li>
 					<li>
@@ -174,28 +173,8 @@
 				</ul>
 			</li>
 			<li>
-				<span><img src="/icon/map-pin.svg" alt="Map Pin icon" /></span>
-				<h3>CTO, Zoek</h3>
-				<time>Nov 2016 - Jan 2017</time>
-				<ul>
-					<li>ML/AI learning job search based on the candidates needs with multiple channels</li>
-					<li>
-						Creating and implementing a vision to move the development of all products in-house.
-					</li>
-					<li>
-						Strategizing for increased conversion rates, optimization of existing revenue streams
-						and creation of new revenue streams wherever possible with technology
-					</li>
-					<li>Managing a strategy to recruit, train and mentor technology apprentices</li>
-					<li>
-						Negotiating commercial agreements where possible to reduce risk and deliver business
-						value
-					</li>
-				</ul>
-			</li>
-			<li>
 				<span><img src="/icon/union.svg" alt="Union Jack icon" /></span>
-				<h3>Lead Architect in R&D, UK Government (DWP)</h3>
+				<h3>Senior Architect in R&D, UK Government (DWP)</h3>
 				<time>Apr 2015 - Nov 2016</time>
 				<ul>
 					<li>

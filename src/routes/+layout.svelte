@@ -1,9 +1,8 @@
 <script lang="ts">
 	import '../app.css';
 	import siteMetaData from '$lib/siteMetaData';
-	import InlineSVG from 'svelte-inline-svg';
-	import { fly } from 'svelte/transition'
-  	import { cubicIn, cubicOut } from 'svelte/easing'
+	import { fly } from 'svelte/transition';
+ 	import { cubicIn, cubicOut } from 'svelte/easing';
 
 	export let data
 	const svgSize = { class: 'w-8 h-8' };
@@ -45,15 +44,15 @@
 					<div class="media-icons">
 						<a target="_blank" rel="noreferrer" href={siteMetaData.github}>
 							<span class="sr-only">github</span>
-							<InlineSVG {...svgSize} src="/icon/github_new.svg" />
+							<img {...svgSize} src="/icon/github_new.svg" alt="GitHub" />
 						</a>
 						<a target="_blank" rel="noreferrer" href={siteMetaData.linkedin}>
 							<span class="sr-only">Linkedin</span>
-							<InlineSVG {...svgSize} src="/icon/linkeding.svg" />
+							<img {...svgSize} src="/icon/linkeding.svg" alt="LinkedIn" />
 						</a>
 						<a target="_blank" rel="noreferrer" href="mailto:{siteMetaData.email}">
 							<span class="sr-only">mail</span>
-							<InlineSVG {...svgSize} src="/icon/mail.svg" />
+							<img {...svgSize} src="/icon/mail.svg" alt="Email" />
 						</a>
 					</div>
 					<div class="copyright">

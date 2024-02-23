@@ -1,6 +1,5 @@
 <script lang="ts">
 	import siteMetaData from '$lib/siteMetaData';
-	import InlineSVG from 'svelte-inline-svg';
 	const svgSize = { class: 'pr-2 w-8' };
 </script>
 
@@ -36,15 +35,15 @@
 
 		<div class="mx-7 hidden md:block">
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
-				<InlineSVG src="/icon/mail.svg" {...svgSize} />
+				<img src="/icon/mail.svg" {...svgSize} alt="Email" />
 				<a href="mailto:{siteMetaData.email}">{siteMetaData.email}</a>
 			</div>
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
-				<InlineSVG src="/icon/linkeding.svg" {...svgSize} />
+				<img src="/icon/linkeding.svg" {...svgSize} alt="LinkedIn" />
 				<a target="_blank" rel="noreferrer" href={siteMetaData.linkedin}>LinkedIn</a>
 			</div>
 			<div class="my-2 text-gray-600 flex dark:text-blue-100">
-				<InlineSVG src="/icon/github_new.svg" {...svgSize} />
+				<img src="/icon/github_new.svg" {...svgSize} alt="GitHub" />
 				<a target="_blank" rel="noreferrer" href={siteMetaData.github}>@engineeringstuff</a>
 			</div>
 		</div>
