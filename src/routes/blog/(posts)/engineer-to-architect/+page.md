@@ -1,6 +1,6 @@
 ---
 title: 'Engineer to architect'
-description: '.'
+description: 'While some organizations may treat architecture as an inherent ability of their engineering team, it is crucial to recognize that architecture requires specific skills and expertise.'
 ---
 
 16th June 2023
