@@ -61,20 +61,17 @@
 		<p>My accomplishments include:</p>
 		<ul>
 			<li>CTO at a successful translation startup</li>
-			<li>Led and managed over 815 engineers for the UK Government, recruited over 400</li>
-			<li>R&D lead for UK Government - leading on many projects, including AI/ML</li>
-			<li>Subject Matter Expert for UK Government (GDS)</li>
-			<li>A large AI project for Job and Applicant classification and matching</li>
-			<li>Webby Awards Honoree</li>
+			<li>I was the first hire and founding engineer for a translation company that eventually sold for £60 Million</li>
+			<li>I led over 815 engineers for the UK Government, I recruited over 400</li>
+			<li>I kick-started an API-gateway revolution in UK Government, saving over £300 annually</li>
+			<li>I am a Webby Awards Honoree</li>
+			<li>I led an R&D team for UK Government - leading on many projects, including Blockchain & AI/ML</li>
+			<li>I was a Subject Matter Expert for UK Government (Cabinet Office)</li>
+			<li>I was a Technology advisor to over 24 UK Government organizations, helping them save money</li>
 			<li>
-				Technology advisor for over 24 government organizations, helping them save money and
-				modernize their technology - with demonstrable positive outcomes, saving £65 Million for the
-				UK Army alone
+				I opened an overseas office, then built a team of 30 for a large UK consultancy
 			</li>
-			<li>First hire for a translation company that eventually sold for £60 Million</li>
-			<li>
-				Opened an overseas office and built a team of 30 over 12 months for a large UK consultancy
-			</li>
+			<li>I created a large AI to match Jobs and Applicants</li>
 			<li>And many other things!</li>
 		</ul>
 		<p>
@@ -182,10 +179,10 @@
 						working in a very hands-on capacity on bleeding-edge technologies (blockchain, RPA, AI, VR)
 					</li>
 					<li>
-						Introducing open-standards, new technologies and new engineering practices into central
-						government using a truly polyglot cross-discipline approach involving Rust, Python,
+						Introduced open-standards, new technologies and new engineering practices into central
+						government using a polyglot cross-discipline approach involving Rust, Python,
 						Ruby, LUA, Java, C#, Typescript, JavaScript, CSS, HTML, OpenStack, MESOS, Kubernetes,
-						Docker, AI, hadoop, cassandra and lots more
+						Docker, Kong, AI, hadoop, cassandra and lots more
 					</li>
 					<li>Lead Architect of PIP Assessment Tool, which saved tens of millions of £ for the PIP program, and taxpayer</li>
 					<li>
