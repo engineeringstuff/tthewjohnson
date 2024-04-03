@@ -62,10 +62,10 @@
 		<ul>
 			<li>CTO at a successful translation startup</li>
 			<li>I was the first hire and founding engineer for a translation company that eventually sold for £60 Million</li>
-			<li>I led over 815 engineers for the UK Government, I recruited over 400</li>
+			<li>I led over 815 engineers for the UK Government, and helped to recruit over 400</li>
 			<li>I kick-started an API-gateway revolution in UK Government, saving over £300 annually</li>
 			<li>I am a Webby Awards Honoree</li>
-			<li>I led an R&D team for UK Government - leading on many projects, including Blockchain & AI/ML</li>
+			<li>I led an R&D team for UK Government, leading on many projects, including Blockchain & AI/ML</li>
 			<li>I was a Subject Matter Expert for UK Government (Cabinet Office)</li>
 			<li>I was a Technology advisor to over 24 UK Government organizations, helping them save money</li>
 			<li>
@@ -186,9 +186,10 @@
 					</li>
 					<li>Lead Architect of PIP Assessment Tool, which saved tens of millions of £ for the PIP program, and taxpayer</li>
 					<li>
-						Architected and implemented a federated AAA-oriented Service Mesh API strategy with
-						JWT/JWE tokens with KONG/NGINX/LUA - a key initiative for identity across the
-						organization
+						I architected and built the Integration API Gateway - which saves government more than £400
+						million every year - it is talked about <a href="https://careers.dwp.gov.uk/our-teams/dwp-digital-engineering/key-to-successful-api-strategy/">here</a> and <a href="https://dwpdigital.blog.gov.uk/2021/12/08/guest-post-how-apis-kept-our-country-running-when-everything-stopped/">here</a>.<br />
+						This is National Critical Infrastructure built on Kong which I heavily modified to use Active Directory certificate-chaining to sign JWTs and encrypt JWEs<br />
+						It provides a zero-trust layer for key assets at DWP
 					</li>
 				</ul>
 			</li>
